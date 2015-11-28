@@ -27,3 +27,8 @@ function getRandomIp(){
 	$ip= long2ip(mt_rand($ip_long[$rand_key][0], $ip_long[$rand_key][1]));
        return $ip;
 }
+function skipUrl($url){
+	header("location:$url");
+	exit();
+
+}
