@@ -1,0 +1,14 @@
+{
+    "name": "weihuagu/phputil",
+    "description": "自己用的php一般使用的库",
+    "require-dev": {
+        "phpunit/phpunit": "1.0"
+    },
+    "authors": [
+        {
+            "name": "weihua",
+            "email": "weihuagu_work@163.com"
+        }
+    ],
+    "require": {}
+}
